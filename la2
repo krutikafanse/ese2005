@@ -1,0 +1,24 @@
+library IEEE; 
+use IEEE.STD_LOGIC_1164.ALL; 
+entity lab1 is    
+ Port ( s0 : in  STD_LOGIC;          
+ s1 : in  STD_LOGIC;        
+ s2 : in  STD_LOGIC;          
+ s3 : in  STD_LOGIC;          
+ s4 : in  STD_LOGIC;           
+ s5 : in  STD_LOGIC;           
+ s6 : in  STD_LOGIC;          
+ e : in  STD_LOGIC;           
+ w : in  STD_LOGIC;           
+ n : in  STD_LOGIC;           
+ s : in  STD_LOGIC;           
+ r : in  STD_LOGIC;            
+ v : in  STD_LOGIC;           
+ cc : out  STD_LOGIC;           
+ tt : out  STD_LOGIC;            
+ rr : out  STD_LOGIC;           
+ ss : out  STD_LOGIC;           
+ dd : out  STD_LOGIC;           
+ gg : out  STD_LOGIC;           
+ vv : out  STD_LOGIC;           
+ d : out  STD_LOGIC;  
